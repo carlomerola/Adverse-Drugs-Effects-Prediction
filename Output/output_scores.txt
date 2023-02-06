@@ -1,0 +1,342 @@
+ 
+
+
+#0
+Parameters: {'hidden_layer_sizes': (100,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.34783737024221456, 'precision': 0.42712980667091566, 'recall': 0.293375164161681, 'average precision': 0.323308896460597, 'auc': 0.9090448687046386}
+
+
+#1
+Parameters: {'hidden_layer_sizes': (100,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.34910937096635397, 'precision': 0.42544043624161076, 'recall': 0.2960017510579308, 'average precision': 0.32359983350738175, 'auc': 0.9100457399368531}
+
+
+#2
+Parameters: {'hidden_layer_sizes': (100,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.34985023534445875, 'precision': 0.4230132450331126, 'recall': 0.2982635342185904, 'average precision': 0.3238183005595707, 'auc': 0.9107952397886889}
+
+
+#3
+Parameters: {'hidden_layer_sizes': (100,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.34710384414680817, 'precision': 0.4296017222820237, 'recall': 0.2911863417481395, 'average precision': 0.32484004915271725, 'auc': 0.9115608383673941}
+
+
+#4
+Parameters: {'hidden_layer_sizes': (100,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.35128624279445925, 'precision': 0.4279874213836478, 'recall': 0.29789873048300014, 'average precision': 0.3268847819486156, 'auc': 0.9128839919803389}
+
+
+#5
+Parameters: {'hidden_layer_sizes': (200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.3488612836438923, 'precision': 0.42667229373285503, 'recall': 0.29505326134539617, 'average precision': 0.32351043211464237, 'auc': 0.9086565318544801}
+
+
+#6
+Parameters: {'hidden_layer_sizes': (200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.34995633187772923, 'precision': 0.43582771372634327, 'recall': 0.2923537137020283, 'average precision': 0.32965726836299003, 'auc': 0.9112183295219746}
+
+
+#7
+Parameters: {'hidden_layer_sizes': (200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.34959771606540363, 'precision': 0.42934551636209095, 'recall': 0.29483437910404203, 'average precision': 0.32667973896130115, 'auc': 0.9116336178857192}
+
+
+#8
+Parameters: {'hidden_layer_sizes': (200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.34768166089965397, 'precision': 0.4728322248713766, 'recall': 0.2749160951408142, 'average precision': 0.34700185486953794, 'auc': 0.9165277814470935}
+
+
+#9
+Parameters: {'hidden_layer_sizes': (200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.3395217729393469, 'precision': 0.5084425036390102, 'recall': 0.2548518896833504, 'average precision': 0.3638138270886071, 'auc': 0.9223218170596474}
+
+
+#10
+Parameters: {'hidden_layer_sizes': (300,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.348502563180142, 'precision': 0.45417252695733706, 'recall': 0.28272289508244564, 'average precision': 0.33615249830609206, 'auc': 0.9117753538609162}
+
+
+#11
+Parameters: {'hidden_layer_sizes': (300,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.3542442207822051, 'precision': 0.47857941139947846, 'recall': 0.2811907193929666, 'average precision': 0.3560253903117187, 'auc': 0.9172012187861227}
+
+
+#12
+Parameters: {'hidden_layer_sizes': (300,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.3524488825487399, 'precision': 0.50600764609503, 'recall': 0.2703925288194951, 'average precision': 0.3724558738320919, 'auc': 0.9222460817798571}
+
+
+#13
+Parameters: {'hidden_layer_sizes': (300,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.3597767495110433, 'precision': 0.5196362133112856, 'recall': 0.2751349773821684, 'average precision': 0.38358546500427804, 'auc': 0.9249787610066857}
+
+
+#14
+Parameters: {'hidden_layer_sizes': (300,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.3825638621982657, 'precision': 0.5349324944291519, 'recall': 0.29775280898876405, 'average precision': 0.40477751588933575, 'auc': 0.9282915886942282}
+
+
+#15
+Parameters: {'hidden_layer_sizes': (400,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.35829498442802027, 'precision': 0.49365953631356474, 'recall': 0.2811907193929666, 'average precision': 0.36468657944150473, 'auc': 0.9176885058461369}
+
+
+#16
+Parameters: {'hidden_layer_sizes': (400,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.36423902894491134, 'precision': 0.5057039149598134, 'recall': 0.28461987450751497, 'average precision': 0.3815900908056231, 'auc': 0.9242115022843398}
+
+
+#17
+Parameters: {'hidden_layer_sizes': (400,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.3782931354359925, 'precision': 0.5192258721670486, 'recall': 0.2975339267474099, 'average precision': 0.39628723074860994, 'auc': 0.9277968965895504}
+
+
+#18
+Parameters: {'hidden_layer_sizes': (400,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.39420528288090667, 'precision': 0.5275195694716243, 'recall': 0.31467970232015174, 'average precision': 0.4092984699793779, 'auc': 0.9295915410145098}
+
+
+#19
+Parameters: {'hidden_layer_sizes': (400,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.4096633947380216, 'precision': 0.5310865775711795, 'recall': 0.3334306143294907, 'average precision': 0.4153364421169071, 'auc': 0.9302339014935267}
+
+
+#20
+Parameters: {'hidden_layer_sizes': (500,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.3661879590213781, 'precision': 0.5102333463694434, 'recall': 0.2855683642200496, 'average precision': 0.382758254899944, 'auc': 0.9234575598064259}
+
+
+#21
+Parameters: {'hidden_layer_sizes': (500,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.3816179192891521, 'precision': 0.5217666413566185, 'recall': 0.30081716036772216, 'average precision': 0.4009690465508582, 'auc': 0.9279810883178863}
+
+
+#22
+Parameters: {'hidden_layer_sizes': (500,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.3967235494880546, 'precision': 0.5271495948724151, 'recall': 0.3180358966875821, 'average precision': 0.4099233161113626, 'auc': 0.9298737439755612}
+
+
+#23
+Parameters: {'hidden_layer_sizes': (500,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.413252268922372, 'precision': 0.5215747330960854, 'recall': 0.3421859039836568, 'average precision': 0.4177517050790864, 'auc': 0.9310022955457485}
+
+
+#24
+Parameters: {'hidden_layer_sizes': (500,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.41537719721211597, 'precision': 0.5202591413198638, 'recall': 0.3456880198453232, 'average precision': 0.41375925001807734, 'auc': 0.9292661480781065}
+
+
+#25
+Parameters: {'hidden_layer_sizes': (600,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.376773711725168, 'precision': 0.5229334024358642, 'recall': 0.29446957536845175, 'average precision': 0.39770865894535945, 'auc': 0.926748252568584}
+
+
+#26
+Parameters: {'hidden_layer_sizes': (600,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.40424104147094353, 'precision': 0.5224933502949, 'recall': 0.3296366554793521, 'average precision': 0.4153687333494671, 'auc': 0.9301210326021576}
+
+
+#27
+Parameters: {'hidden_layer_sizes': (600,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.4123401053423627, 'precision': 0.5241363789805333, 'recall': 0.3398511600758792, 'average precision': 0.41616962902231935, 'auc': 0.9301405549632555}
+
+
+#28
+Parameters: {'hidden_layer_sizes': (600,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.4225511045527538, 'precision': 0.521478307445099, 'recall': 0.35517291697066977, 'average precision': 0.4212597214827186, 'auc': 0.9306383580760317}
+
+
+#29
+Parameters: {'hidden_layer_sizes': (600,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.42088271526273313, 'precision': 0.5037112353838332, 'recall': 0.36144754122282213, 'average precision': 0.4126250107147682, 'auc': 0.9292852400531381}
+
+
+#30
+Parameters: {'hidden_layer_sizes': (700,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.3894578724566435, 'precision': 0.5177296381459519, 'recall': 0.31212607617102, 'average precision': 0.4066769392372228, 'auc': 0.9283007771362086}
+
+
+#31
+Parameters: {'hidden_layer_sizes': (700,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.4019302755603662, 'precision': 0.5262784929727176, 'recall': 0.325113089158033, 'average precision': 0.41172298062883805, 'auc': 0.9287941520358952}
+
+
+#32
+Parameters: {'hidden_layer_sizes': (700,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.42487800701994693, 'precision': 0.5139809444904723, 'recall': 0.3621041879468846, 'average precision': 0.4217183353094068, 'auc': 0.9304020535042254}
+
+
+#33
+Parameters: {'hidden_layer_sizes': (700,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.4240817548210544, 'precision': 0.5122404710257205, 'recall': 0.36181234495841236, 'average precision': 0.41709971060275397, 'auc': 0.9295654853037294}
+
+
+#34
+Parameters: {'hidden_layer_sizes': (700,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.4241736058541509, 'precision': 0.5006949960285941, 'recall': 0.36794104771632863, 'average precision': 0.41035184680309006, 'auc': 0.928081109807071}
+
+
+#35
+Parameters: {'hidden_layer_sizes': (800,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.40249776984834973, 'precision': 0.5177874684415883, 'recall': 0.3291988909966438, 'average precision': 0.4112000950518467, 'auc': 0.9290426992460435}
+
+
+#36
+Parameters: {'hidden_layer_sizes': (800,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.40952890792291224, 'precision': 0.5269804822043628, 'recall': 0.33488982927185174, 'average precision': 0.41360960798437374, 'auc': 0.928699439438662}
+
+
+#37
+Parameters: {'hidden_layer_sizes': (800,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.42811932992953283, 'precision': 0.5076553587511258, 'recall': 0.37012987012987014, 'average precision': 0.42019432943401314, 'auc': 0.9298860407110862}
+
+
+#38
+Parameters: {'hidden_layer_sizes': (800,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.42292624765797987, 'precision': 0.5078748210267948, 'recall': 0.3623230701882387, 'average precision': 0.41361349737587993, 'auc': 0.9281020642892778}
+
+
+#39
+Parameters: {'hidden_layer_sizes': (800,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.4174090967219403, 'precision': 0.5019993848046754, 'recall': 0.3572158178899752, 'average precision': 0.403272472632424, 'auc': 0.9258209514362187}
+
+
+#40
+Parameters: {'hidden_layer_sizes': (1000,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.414736377674829, 'precision': 0.5246121218886036, 'recall': 0.3429155114548373, 'average precision': 0.4154331362005146, 'auc': 0.9288596745173799}
+
+
+#41
+Parameters: {'hidden_layer_sizes': (1000,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.4265873858568699, 'precision': 0.5104177253785954, 'recall': 0.3664088720268496, 'average precision': 0.4195880646951302, 'auc': 0.9290544945000409}
+
+
+#42
+Parameters: {'hidden_layer_sizes': (1000,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.4178236723359945, 'precision': 0.5154142581888247, 'recall': 0.3513059973734131, 'average precision': 0.4122543249389197, 'auc': 0.927071858746794}
+
+
+#43
+Parameters: {'hidden_layer_sizes': (1000,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.4216821478559613, 'precision': 0.5035963934758383, 'recall': 0.362687873923829, 'average precision': 0.41147455836479624, 'auc': 0.9268052918750589}
+
+
+#44
+Parameters: {'hidden_layer_sizes': (1000,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.42706423886920036, 'precision': 0.4834455409019644, 'recall': 0.3824602363928207, 'average precision': 0.40363936713327814, 'auc': 0.9257079966486066}
+
+
+#45
+Parameters: {'hidden_layer_sizes': (1200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 300}
+Scores: {'f1': 0.42033370796230657, 'precision': 0.5156979210861264, 'recall': 0.3547351524879615, 'average precision': 0.4160656230373914, 'auc': 0.9285194708453273}
+
+
+#46
+Parameters: {'hidden_layer_sizes': (1200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 400}
+Scores: {'f1': 0.43153801605030195, 'precision': 0.49828047382499047, 'recall': 0.38056325696775134, 'average precision': 0.4195489046562383, 'auc': 0.9280554104784455}
+
+
+#47
+Parameters: {'hidden_layer_sizes': (1200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 500}
+Scores: {'f1': 0.42714704650188523, 'precision': 0.5015741833923653, 'recall': 0.3719538888078214, 'average precision': 0.4141127337500396, 'auc': 0.9267202730792676}
+
+
+#48
+Parameters: {'hidden_layer_sizes': (1200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 600}
+Scores: {'f1': 0.42495952173371526, 'precision': 0.4930160870821694, 'recall': 0.3734131037501824, 'average precision': 0.4077845798079813, 'auc': 0.9255619239149356}
+
+
+#49
+Parameters: {'hidden_layer_sizes': (1200,), 'activation': 'sigmoid', 'solver': 'adam', 'learning_rate': 'constant', 'learning_rate_init': 0.0001, 'max_iter': 800}
+Scores: {'f1': 0.42304875071213477, 'precision': 0.47828487302171513, 'recall': 0.3792499635196264, 'average precision': 0.40037247167823625, 'auc': 0.9243148992567368}
+
+Best scores based on average precision:  #32-f1: 0.42487800701994693	 #32-precision: 0.5139809444904723	 #32-recall: 0.3621041879468846	 #32-average precision: 0.4217183353094068	 #32-auc: 0.9304020535042254	
+
+Best parameters for average precision:  #32-hidden_layer_sizes: (700,)	 #32-activation: sigmoid	 #32-solver: adam	 #32-learning_rate: constant	 #32-learning_rate_init: 0.0001	 #32-max_iter: 500	
+
+Best scores based on auc:  #23-f1: 0.413252268922372	 #23-precision: 0.5215747330960854	 #23-recall: 0.3421859039836568	 #23-average precision: 0.4177517050790864	 #23-auc: 0.9310022955457485	
+
+Best parameters for auc:  #23-hidden_layer_sizes: (500,)	 #23-activation: sigmoid	 #23-solver: adam	 #23-learning_rate: constant	 #23-learning_rate_init: 0.0001	 #23-max_iter: 600	
+
+
+
+Sample Weights: [114.68807339  25.01834862  10.1559633  ...  12.88073394   3.46788991
+  20.55963303]
+
+
+Final evaluation for best model by average precision on test set
+
+Threshold 0.9, scores: {'f1': 0.23044124938026772, 'precision': 0.6254036598493004, 'recall': 0.14124225112434666, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.85, scores: {'f1': 0.2662175531163141, 'precision': 0.5919756966268594, 'recall': 0.17172116202747054, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.8, scores: {'f1': 0.2912849212438507, 'precision': 0.5658425390145537, 'recall': 0.1961225233985657, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.75, scores: {'f1': 0.3107799908772997, 'precision': 0.5448176071890946, 'recall': 0.2173939467606661, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.7, scores: {'f1': 0.32844833008365304, 'precision': 0.5296504158496179, 'recall': 0.2380272274219035, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.65, scores: {'f1': 0.3421223430147655, 'precision': 0.5143937545742864, 'recall': 0.2562902637656497, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.6, scores: {'f1': 0.3557609123082973, 'precision': 0.503954991087344, 'recall': 0.2749179530813176, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.55, scores: {'f1': 0.36691333536771437, 'precision': 0.4926756812128662, 'recall': 0.29229974474291964, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.5, scores: {'f1': 0.3777708052638379, 'precision': 0.48107930240210595, 'recall': 0.3109882095539079, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.45, scores: {'f1': 0.38726128278739674, 'precision': 0.46860570491520304, 'recall': 0.3299805518414975, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.4, scores: {'f1': 0.3946765835098049, 'precision': 0.45529294935451836, 'recall': 0.348304363680564, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.35, scores: {'f1': 0.4017094017094017, 'precision': 0.4415234488785319, 'recall': 0.3684818281268992, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.3, scores: {'f1': 0.4064584620747572, 'precision': 0.4246598020064232, 'recall': 0.38975325148899964, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.25, scores: {'f1': 0.41094321999427535, 'precision': 0.407487078366347, 'recall': 0.41445849033669624, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.2, scores: {'f1': 0.41340972261614384, 'precision': 0.38757711125292493, 'recall': 0.4429318098942506, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.15, scores: {'f1': 0.41352467072931004, 'precision': 0.36355047583934375, 'recall': 0.4794274948340829, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Threshold 0.1, scores: {'f1': 0.40274626170943156, 'precision': 0.3263431836611538, 'recall': 0.5258599732587821, 'average precision': 0.36020861454071285, 'auc': 0.9181449717809075}
+
+Optimizing f1 with threshold: 0.15
+
+
+Final evaluation for best model by auc on test set
+
+Threshold 0.9, scores: {'f1': 0.22792810586608728, 'precision': 0.6076882569773565, 'recall': 0.14026984319922206, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.85, scores: {'f1': 0.26233125953750436, 'precision': 0.5767523485083101, 'recall': 0.16977634617722134, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.8, scores: {'f1': 0.2900334688559941, 'precision': 0.5560244595642063, 'recall': 0.196183298893886, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.75, scores: {'f1': 0.3117230662983425, 'precision': 0.5378313970807268, 'recall': 0.21946031360155585, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.7, scores: {'f1': 0.32960672870734703, 'precision': 0.5233719008264462, 'recall': 0.2405494104776954, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.65, scores: {'f1': 0.34240554816338054, 'precision': 0.5086857553612076, 'recall': 0.25805275312993803, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.6, scores: {'f1': 0.3549344159900062, 'precision': 0.4961798733900895, 'recall': 0.27628540172602406, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.55, scores: {'f1': 0.3658278546059095, 'precision': 0.4835197762684778, 'recall': 0.2942141728455087, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.5, scores: {'f1': 0.37461583491877654, 'precision': 0.47062879205736347, 'recall': 0.3111401482922086, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.45, scores: {'f1': 0.38461538461538464, 'precision': 0.459106239460371, 'recall': 0.33092257201896197, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.4, scores: {'f1': 0.39186565384746397, 'precision': 0.4457878012865225, 'recall': 0.34958064908229003, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.35, scores: {'f1': 0.3990005389250894, 'precision': 0.43127978817299206, 'recall': 0.3712167254163121, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.3, scores: {'f1': 0.40550972762645915, 'precision': 0.4156403547954821, 'recall': 0.3958611887686885, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.25, scores: {'f1': 0.4091586385966983, 'precision': 0.3976200716845878, 'recall': 0.42138689680320895, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.2, scores: {'f1': 0.40915609487038057, 'precision': 0.37453296980712913, 'recall': 0.45083262428588794, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.15, scores: {'f1': 0.40572883030049767, 'precision': 0.34779965697661797, 'recall': 0.48681171751549773, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Threshold 0.1, scores: {'f1': 0.39350112068869386, 'precision': 0.31080343145026335, 'recall': 0.5361614197155706, 'average precision': 0.35522806572811594, 'auc': 0.919259809611705}
+
+Optimizing f1 with threshold: 0.25

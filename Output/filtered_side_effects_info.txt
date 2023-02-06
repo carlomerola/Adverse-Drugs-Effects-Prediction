@@ -1,0 +1,4 @@
+Min occ. 0	Max occ. 2000
+Number of original side effects: 4251
+Number of filtered side effects: 4251
+Cut: 0	Cut percentage: 0.0%
