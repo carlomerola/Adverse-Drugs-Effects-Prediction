@@ -7,6 +7,7 @@ Finally, the developed program uses Machine Learning techniques, and, in particu
 
 I dedicate this study to Wally - Luigi - who, at the time of writing this thesis, is in serious health conditions. And to his family, Emma, Edoardo and Eleonora. They have always shown so much strength, typical of few people.
 
+
 [link to the italian presentation](https://github.com/carlomerola/Adverse-Drugs-Effects-Prediction/blob/main/Presentazione_Tesi_Merola_Carlo_A_A__2021_2022.pdf)
 
 [link to the graduation thesis written in italian](https://github.com/carlomerola/Adverse-Drugs-Effects-Prediction/blob/main/Tesi_Merola_Carlo_A_A__2021_2022.pdf)
